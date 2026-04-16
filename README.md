@@ -49,7 +49,7 @@ Da oltre trent'anni mi occupo di analisi, pianificazione, progettazione e implem
 ## Competenze tecniche
 
 - **Linguaggi**: Delphi, JavaScript / TypeScript, Node.js, SQL
-- **Database**: PostgreSQL, SQL Server, Firebird, SQLite
+- **Database**: PostgreSQL, SQL Server, Firebird, SQLite, DBISAM
 - **Cloud & DevOps**: AWS (Lambda, API Gateway, CloudFront, S3, RDS / Aurora, IAM, CloudWatch, Secrets Manager), Railway, Docker, CI/CD (GitHub Actions)
 - **Frontend**: Vue.js, VitePress, HTML5/CSS3
 - **AI & Integrazioni**: Anthropic Claude API, Google Gemini API, OpenAI API, Voyage AI, RAG (Retrieval-Augmented Generation)

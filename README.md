@@ -1,6 +1,6 @@
 # Lamberto Righetti
 
-Informatico, diploma universitario in Informatica conseguito nel **1993 presso l'Università di Pisa**.
+Software Architect & Developer, diploma universitario in Informatica conseguito nel **1993 presso l'Università di Pisa**.
 
 Amministratore e Direttore Sviluppo di **[Geo Network Srl](https://www.geonetwork.it)** dal 1996.
 

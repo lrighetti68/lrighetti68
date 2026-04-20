@@ -6,7 +6,7 @@ Amministratore e Direttore Sviluppo di **[Geo Network Srl](https://www.geonetwor
 
 ## Project Manager & Autore
 
-Da oltre trent'anni mi occupo di analisi, pianificazione, progettazione e implementazione di software gestionale e tecnico-professionale per studi, aziende e pubbliche amministrazioni.
+Da oltre trent'anni si occupa di analisi, pianificazione, progettazione e implementazione di software gestionale e tecnico-professionale per studi, aziende e pubbliche amministrazioni.
 
 ## Software
 
